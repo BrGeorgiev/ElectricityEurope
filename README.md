@@ -1,9 +1,6 @@
 # ElectricityEurope
-
-Finished
-
-diagramm: https://drawsql.app/teams/alone-173/diagrams/electricity
-Dashboard: https://public.tableau.com/views/OfficialDashboards/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Main Tableaue Dashboard: https://public.tableau.com/views/OfficialDashboards/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Table relations and overview: https://drawsql.app/teams/alone-173/diagrams/electricity
 
 
 Overview
@@ -27,6 +24,7 @@ This project is built as part of a portfolio to demonstrate competency in:
     Interactive data visualization (Tableau)
 
 Data Sources and Scope
+Link to csv.file: https://ember-energy.org/data/yearly-electricity-data/
 
 The data covers:
 
